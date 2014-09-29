@@ -1,28 +1,21 @@
-== README
+In this project you’ll use Ruby on Rails to build an online commerce platform for a restaurant to facilitate online ordering.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Introduction
 
-Things you may want to cover:
+Learning Goals
 
-* Ruby version
+Use TDD to drive all layers of Rails development including unit, integration, and user acceptance tests
+Design a system of models which use one-to-one, one-to-many, and many-to-many relationships
+Practice mixing HTML, CSS, and Rails templates to create an inviting and usable User Interface
+Differentiate responsibilities between components of the Rails stack
+Build a logical user-flow that moves across multiple controllers and models
+Understandings
 
-* System dependencies
+Please consider the requirements below non-exhaustive guidelines for building a great customer experience. If you know something should be done but it isn’t listed below, do it.
 
-* Configuration
+Restrictions
 
-* Database creation
+Project implementation may not use:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Any external library for authentication except bcrypt
+A pre-existing, externally created CSS/HTML design/template
